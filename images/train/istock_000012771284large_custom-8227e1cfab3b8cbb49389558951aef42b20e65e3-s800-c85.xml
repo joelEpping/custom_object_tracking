@@ -1,0 +1,26 @@
+<annotation>
+	<folder>terere</folder>
+	<filename>istock_000012771284large_custom-8227e1cfab3b8cbb49389558951aef42b20e65e3-s800-c85.jpg</filename>
+	<path>C:\Users\Joel Sanchez\Desktop\terere\istock_000012771284large_custom-8227e1cfab3b8cbb49389558951aef42b20e65e3-s800-c85.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>532</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>guampa</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>94</xmin>
+			<ymin>38</ymin>
+			<xmax>661</xmax>
+			<ymax>532</ymax>
+		</bndbox>
+	</object>
+</annotation>
