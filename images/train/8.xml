@@ -1,0 +1,26 @@
+<annotation>
+	<folder>train</folder>
+	<filename>8.jpg</filename>
+	<path>C:\Users\Joel Sanchez\Desktop\terere-object-detection\images\train\8.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>70</width>
+		<height>70</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>guampa</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>17</xmin>
+			<ymin>14</ymin>
+			<xmax>54</xmax>
+			<ymax>61</ymax>
+		</bndbox>
+	</object>
+</annotation>
