@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train</folder>
-	<filename>5.jpg</filename>
-	<path>C:\Users\Joel Sanchez\Desktop\terere-object-detection\images\train\5.jpg</path>
+	<folder>test</folder>
+	<filename>16.jpg</filename>
+	<path>C:\Users\Joel Sanchez\Desktop\terere-object-detection\images\test\16.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,13 @@
 	<object>
 		<name>cuchara</name>
 		<pose>Unspecified</pose>
-		<truncated>0</truncated>
+		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>380</xmin>
-			<ymin>373</ymin>
-			<xmax>525</xmax>
-			<ymax>598</ymax>
+			<xmin>147</xmin>
+			<ymin>8</ymin>
+			<xmax>287</xmax>
+			<ymax>600</ymax>
 		</bndbox>
 	</object>
 </annotation>

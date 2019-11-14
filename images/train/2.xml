@@ -12,15 +12,15 @@
 	</size>
 	<segmented>0</segmented>
 	<object>
-		<name>guampa</name>
+		<name>cuchara</name>
 		<pose>Unspecified</pose>
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>410</xmin>
-			<ymin>23</ymin>
-			<xmax>790</xmax>
-			<ymax>499</ymax>
+			<xmin>262</xmin>
+			<ymin>25</ymin>
+			<xmax>368</xmax>
+			<ymax>510</ymax>
 		</bndbox>
 	</object>
 </annotation>

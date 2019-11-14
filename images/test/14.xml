@@ -1,7 +1,7 @@
 <annotation>
-	<folder>train</folder>
-	<filename>5.jpg</filename>
-	<path>C:\Users\Joel Sanchez\Desktop\terere-object-detection\images\train\5.jpg</path>
+	<folder>test</folder>
+	<filename>14.jpg</filename>
+	<path>C:\Users\Joel Sanchez\Desktop\terere-object-detection\images\test\14.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>380</xmin>
-			<ymin>373</ymin>
-			<xmax>525</xmax>
-			<ymax>598</ymax>
+			<xmin>385</xmin>
+			<ymin>39</ymin>
+			<xmax>529</xmax>
+			<ymax>517</ymax>
 		</bndbox>
 	</object>
 </annotation>
